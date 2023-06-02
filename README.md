@@ -29,3 +29,11 @@ My technology stack:</h3>
 <img src = "https://img.shields.io/badge/Bash-blue.svg?style=for-the-badge&logo=gnubash&logoColor=white">
 <br>
 </p>
+
+<h2 align="center"> My stats: </h2>
+
+<p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=timzy171&show_icons=true&theme=gruvbox&title_color=d29393&text_color=b8b8b8&bg_color=262626&locale=en&layout=compact" alt="daniilubica" /></p>
+
+<p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=timzy171&show_icons=true&theme=gruvbox&title_color=d29393&text_color=b8b8b8&bg_color=262626&locale=en" /></p>
+
+<p align="center"> <img src = "https://www.codewars.com/users/tonan/badges/large"> </p>
