@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi everyone! 👋</h1>
-<h3 align="center">I'm Timur, Java Android developer at TrueConf ☕️</h3>
+<h3 align="center">I'm Timur, Java/Kotlin Android developer at TrueConf ☕️</h3>
 <h3 align="center">Student of School 21 Moscow 💚</h3>
 
 <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=1500&color=000000&background=f2f3f4&multiline=true&width=440&height=255&lines=package +org.example;+;public+class+Info(){+;+;++User+ + + user + = + + new + + User()+;+user.name+ = + &#34Timur&#34;+;+user.surname+ = + &#34Zheleznyak&#34;+;+user.university+ = + &#34MSUT Stankin&#34+;+;+}" alt="Typing SVG" /></h2>
